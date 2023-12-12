@@ -12,4 +12,4 @@ Model.ipynb is used to make predictions. It:
 	implements normalization and PCA, creates data_train_pca.parquet and data_test_pca.parquet files,
 	builds 4 different models and trains them using cross validation and grid search.
 
-
+The original dataset can be downlonaded at https://www.kaggle.com/datasets/lorentzyeung/price-paid-data-202304
